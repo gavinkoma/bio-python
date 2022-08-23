@@ -1,0 +1,300 @@
+Accession #: AF376831
+Species: Scotophilus_heathi
+Hash #: 6433
+
+Accession #: AF376832
+Species: Nyctalus_leisleri
+Hash #: 6438
+
+Accession #: AF376833
+Species: Eptesicus_diminutus
+Hash #: 6443
+
+Accession #: AF376834
+Species: Vespertilio_murinus
+Hash #: 6448
+
+Accession #: AF376835
+Species: Eptesicus_fuscus
+Hash #: 6453
+
+Accession #: AF376836
+Species: Eptesicus_nilssoni
+Hash #: 6458
+
+Accession #: AF376837
+Species: Eptesicus_serotinus
+Hash #: 6463
+
+Accession #: AF376838
+Species: Lasiurus_sp._MVZ_AD522
+Hash #: 6468
+
+Accession #: AF376839
+Species: Myotis_albescens
+Hash #: 6473
+
+Accession #: AF376840
+Species: Myotis_blythii_blythii
+Hash #: 6478
+
+Accession #: AF376841
+Species: Myotis_blythii_oxygnathus
+Hash #: 6483
+
+Accession #: AF376842
+Species: Myotis_blythii_punicus
+Hash #: 6488
+
+Accession #: AF376843
+Species: Myotis_bechsteini
+Hash #: 6493
+
+Accession #: AF376844
+Species: Myotis_brandtii
+Hash #: 6498
+
+Accession #: AF376845
+Species: Myotis_capaccinii
+Hash #: 6503
+
+Accession #: AF376846
+Species: Myotis_dasycneme
+Hash #: 6508
+
+Accession #: AF376847
+Species: Myotis_daubentoni
+Hash #: 6513
+
+Accession #: AF376848
+Species: Myotis_dominicensis
+Hash #: 6518
+
+Accession #: AF376849
+Species: Myotis_emarginatus
+Hash #: 6523
+
+Accession #: AF376850
+Species: Myotis_hasseltii
+Hash #: 6528
+
+Accession #: AF376851
+Species: Myotis_horsfieldii
+Hash #: 6533
+
+Accession #: AF376852
+Species: Myotis_keaysi
+Hash #: 6538
+
+Accession #: AF376853
+Species: Myotis_levis
+Hash #: 6543
+
+Accession #: AF376855
+Species: Myotis_macrotarsus
+Hash #: 6553
+
+Accession #: AF376857
+Species: Myotis_montivagus
+Hash #: 6563
+
+Accession #: AF376859
+Species: Myotis_muricola_browni
+Hash #: 6573
+
+Accession #: AF376861
+Species: Myotis_mystacinus
+Hash #: 6583
+
+Accession #: AF376863
+Species: Myotis_nattereri
+Hash #: 6593
+
+Accession #: AF376865
+Species: Myotis_oxyotus
+Hash #: 6603
+
+Accession #: AF376867
+Species: Myotis_ruber
+Hash #: 6613
+
+Accession #: AF376869
+Species: Myotis_thysanodes
+Hash #: 6623
+
+Accession #: AF376871
+Species: Myotis_volans
+Hash #: 6633
+
+Accession #: AF376873
+Species: Myotis_welwitschii
+Hash #: 6643
+
+Accession #: AF376875
+Species: Myotis_yumanensis
+Hash #: 6653
+
+Accession #: AB085733
+Species: Murina_leucogaster
+Hash #: 5932
+
+Accession #: AB085735
+Species: Miniopterus_fuliginosus
+Hash #: 5942
+
+Accession #: AB085738
+Species: Vespertilio_superans
+Hash #: 5957
+
+Accession #: AB085739
+Species: Pipistrellus_abramus
+Hash #: 5962
+
+Accession #: AF376830
+Species: Miniopterus_schreibersii
+Hash #: 6428
+
+Accession #: AJ504442
+Species: Pipistrellus_pygmaeus_x_mediterraneus
+Hash #: 4467
+
+Accession #: AJ504444
+Species: Pipistrellus_kuhli
+Hash #: 4477
+
+Accession #: AJ504446
+Species: Pipistrellus_nathusii
+Hash #: 4487
+
+Accession #: AJ504447
+Species: Pipistrellus_cf_javanicus
+Hash #: 4492
+
+Accession #: AJ841949
+Species: Myotis_evotis
+Hash #: 7008
+
+Accession #: AJ841950
+Species: Myotis_formosus
+Hash #: 7013
+
+Accession #: AJ841951
+Species: Myotis_sicarius
+Hash #: 7018
+
+Accession #: AJ841952
+Species: Myotis_tricolor
+Hash #: 7023
+
+Accession #: AJ841953
+Species: Myotis_tricolor
+Hash #: 7028
+
+Accession #: AJ841954
+Species: Myotis_welwitschii
+Hash #: 7033
+
+Accession #: AJ841955
+Species: Myotis_alcathoe
+Hash #: 7038
+
+Accession #: AJ841956
+Species: Myotis_annectans
+Hash #: 7043
+
+Accession #: AJ841957
+Species: Myotis_muricola
+Hash #: 7048
+
+Accession #: AJ841958
+Species: Myotis_scotti
+Hash #: 7053
+
+Accession #: AJ841959
+Species: Myotis_macropus
+Hash #: 7058
+
+Accession #: AJ841960
+Species: Myotis_macrotarsus
+Hash #: 7063
+
+Accession #: AJ841961
+Species: Myotis_lesueuri
+Hash #: 7068
+
+Accession #: AJ841962
+Species: Myotis_seabrai
+Hash #: 7073
+
+Accession #: AJ841963
+Species: Eptesicus_hottentotus
+Hash #: 7078
+
+Accession #: AJ841964
+Species: Laephotis_wintoni
+Hash #: 7083
+
+Accession #: AJ841965
+Species: Eptesicus_capensis
+Hash #: 7088
+
+Accession #: AJ841966
+Species: Eptesicus_capensis
+Hash #: 7093
+
+Accession #: AJ841967
+Species: Nyctalus_noctula
+Hash #: 7098
+
+Accession #: AJ841968
+Species: Pipistrellus_hesperidus
+Hash #: 7103
+
+Accession #: AJ841969
+Species: Kerivoula_cf_papillosa
+Hash #: 7108
+
+Accession #: AJ841970
+Species: Kerivoula_cf_papillosa
+Hash #: 7113
+
+Accession #: AJ841971
+Species: Harpiocephalus_mordax
+Hash #: 7118
+
+Accession #: AJ841972
+Species: Murina_cf_cyclotis
+Hash #: 7123
+
+Accession #: AJ841973
+Species: Murina_cf_cyclotis
+Hash #: 7128
+
+Accession #: AJ841974
+Species: Murina_cf_cyclotis
+Hash #: 7133
+
+Accession #: AJ841975
+Species: Miniopterus_fraterculus
+Hash #: 7138
+
+Accession #: AJ841976
+Species: Miniopterus_schreibersii_natalensis
+Hash #: 7143
+
+Accession #: AJ841977
+Species: Miniopterus_schreibersii_natalensis
+Hash #: 7148
+
+Accession #: EU797435
+Species: Laephotis_wintoni
+Hash #: 4886
+
+Accession #: GQ168917
+Species: Murina_cyclotis_B
+Hash #: 7475
+
+Accession #: GU585664
+Species: Kerivoula_papillosa
+Hash #: 6216
+

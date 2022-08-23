@@ -1,0 +1,21 @@
+Shape of Dataframe:
+(4769, 9)
+
+Column names:
+['Waterbody Type', 'Segment ID', 'Waterbody Index Number (WIN)', 'Name', 'Description', 'Basin', 'Segment Miles', '6NYCRR Chapter X Part', 'Water Quality Class']
+
+Data Types:
+Waterbody Type                   object
+Segment ID                       object
+Waterbody Index Number (WIN)     object
+Name                             object
+Description                      object
+Basin                            object
+Segment Miles                   float64
+6NYCRR Chapter X Part             int64
+Water Quality Class              object
+
+Pearson Correlation:
+                       Segment Miles  6NYCRR Chapter X Part
+Segment Miles               1.000000               0.081752
+6NYCRR Chapter X Part       0.081752               1.000000

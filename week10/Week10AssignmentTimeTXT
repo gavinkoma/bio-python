@@ -1,0 +1,4 @@
+thread onebyone 20.039555072784424
+thread afterall 5.0222930908203125
+multiprocess onebyone 22.424763917922974
+multiprocess afterall 5.646913051605225

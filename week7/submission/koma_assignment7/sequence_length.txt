@@ -1,0 +1,2 @@
+The lengths of the recorded sequences as follows: 
+[2568, 2568, 2571, 2571, 2559, 2562, 2574, 2568, 2568, 2568, 2307]

@@ -1,0 +1,14 @@
+The value of identical bases (S) is: 133
+The value of different bases (D) is: 54
+The porportion of different bases (p) is: 0.2887700534759358
+The estimate of the number of mutations per site (K") is: 0.3646323663685024
+
+The brute force calculation to determine the log likelihood returned the following details: 
+Loop: 22.117000000004047 Indicated value: -168.8423181164786
+
+By using the scipy.optimize.minimize_scalar() function, our calculated likelihood value is:
+     fun: -168.84231811647874
+    nfev: 40
+     nit: 36
+ success: True
+       x: 2.6180339603380443
